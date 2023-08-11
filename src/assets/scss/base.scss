@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@400;700&display=swap");
+
+:root {
+  // Colors
+  --color-white: #fff;
+  --color-black: #161616;
+  --color-black-light: #777777;
+  --color-gray: #aeaeae;
+  --color-accent: #a9c4e2;
+  --color-accent-second: #0ee77d;
+
+  //fonts
+  --font-primary: "Roboto", sans-serif;
+  --font-secondary: "Open Sans", sans-serif;
+
+  // shadows
+  --shadow-white: 0px 0px 30px var(--color-black-light);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}

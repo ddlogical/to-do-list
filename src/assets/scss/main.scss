@@ -1,0 +1,11 @@
+@import url("base.scss");
+
+html {
+  font-size: 62.5%; //10px
+}
+
+body {
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-size: 1.2rem;
+}
